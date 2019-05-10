@@ -123,7 +123,8 @@ npm install
 npm run-script db-update
 npm start
 ```
-
+##
+The updates are not working
 ## Feedback
 
 Please report any issues or feedback to <a href="https://twitter.com/FreeTimeOffApp">twitter</a> or Email: pavlo at timeoff.management
